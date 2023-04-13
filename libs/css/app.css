@@ -808,7 +808,7 @@ select {
   /* line 158, ../../../../../../../../Library/Ruby/Gems/2.0.0/gems/zurb-foundation-4.3.2/scss/foundation/components/_grid.scss */
   .large-3 {
     position: relative;
-    width: 16.66667%;
+    width: 25%;
   }
 
   /* line 158, ../../../../../../../../Library/Ruby/Gems/2.0.0/gems/zurb-foundation-4.3.2/scss/foundation/components/_grid.scss */
@@ -844,7 +844,7 @@ select {
   /* line 158, ../../../../../../../../Library/Ruby/Gems/2.0.0/gems/zurb-foundation-4.3.2/scss/foundation/components/_grid.scss */
   .large-9 {
     position: relative;
-    width: 83.33333%;
+    width: 75%;
   }
 
   /* line 158, ../../../../../../../../Library/Ruby/Gems/2.0.0/gems/zurb-foundation-4.3.2/scss/foundation/components/_grid.scss */
@@ -5899,7 +5899,7 @@ img.biz-ex-diagram-image {
 
 /* line 2005, ../../sass/_export.scss */
 .isLocal .large-3 {
-  width: 15.66667%;
+  width: 24%;
   display: inherit !important;
 }
 
@@ -5911,7 +5911,7 @@ img.biz-ex-diagram-image {
 
 /* line 2015, ../../sass/_export.scss */
 .isLocal .large-9 {
-  width: 84.33333%;
+  width: 75%;
   display: inherit !important;
 }
 
